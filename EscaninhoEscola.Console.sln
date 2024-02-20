@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscaninhoEscola.Console", "EscaninhoEscola.Console\EscaninhoEscola.Console.csproj", "{45019AD9-56BB-454F-B138-AC4B52FA33D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{4ACE19E1-8B2F-46BC-BB73-FBBA5F3996A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45019AD9-56BB-454F-B138-AC4B52FA33D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45019AD9-56BB-454F-B138-AC4B52FA33D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45019AD9-56BB-454F-B138-AC4B52FA33D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45019AD9-56BB-454F-B138-AC4B52FA33D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACE19E1-8B2F-46BC-BB73-FBBA5F3996A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACE19E1-8B2F-46BC-BB73-FBBA5F3996A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACE19E1-8B2F-46BC-BB73-FBBA5F3996A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACE19E1-8B2F-46BC-BB73-FBBA5F3996A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AECAFD9-6D84-4935-B636-E50B31F13CD4}
+	EndGlobalSection
+EndGlobal
